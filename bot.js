@@ -7,4 +7,4 @@ client.user.setActivity("الامتحانات قربت😲📄",{type: 'WATCHING
 
 
 
-client.login("NDY5MTAyNzg0Nzg5MzQ4MzYy.Dt2Yyw.MrEvmniRKO9yqaFSbPr2WSgXTXM")
+client.login("TOKEN")
